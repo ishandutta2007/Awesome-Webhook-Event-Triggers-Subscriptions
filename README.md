@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Awesome Webhook Event Triggers &amp; Subscriptions Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Awesome Webhook Event Triggers &amp; Subscriptions Banner" width="100%" />
 </p>
 
 # ⚡ Awesome Webhook Event Triggers & Subscriptions
